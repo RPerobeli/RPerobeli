@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá, me chamo Rodrigo Perobeli, Engenheiro Mecânico e mestrando em Modelagem Computacional, ambos pela UFJF. Sou coordenador de programação dentro da equipe Rinobot Team, uma equipe de competição de robótica da UFJF.
+### Possuo experiência em processos de fabricação e também atuei em pesquisas de automação e controle de VANTs dentro da universidade.
+
+### Onde me encontrar:
+
+### Link do meu Lattes:  http://lattes.cnpq.br/2206334259323853
+### Link do meu Linkedin: https://www.linkedin.com/in/rodrigo-perobeli-b2a44314b/
 
 <!--
 **RPerobeli/RPerobeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
