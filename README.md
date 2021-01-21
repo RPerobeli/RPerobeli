@@ -1,4 +1,4 @@
-### Olá, me chamo Rodrigo Perobeli, Engenheiro Mecânico e mestrando em Modelagem Computacional, ambos pela UFJF. Sou coordenador de programação dentro da equipe Rinobot Team, a equipe de competição de robótica da UFJF.
+### Olá, me chamo Rodrigo Perobeli, Engenheiro Mecânico e mestrando em Modelagem Computacional, ambos pela UFJF (Universidade Federal de Juiz de Fora). Sou coordenador de programação dentro da equipe Rinobot Team, a equipe de competição de robótica da UFJF.
 ### Possuo experiência em processos de fabricação e também atuei em pesquisas de automação e controle de VANTs dentro da universidade.
 
 ### Onde me encontrar:
