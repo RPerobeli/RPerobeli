@@ -8,8 +8,6 @@
 ### Link do meu Lattes:  http://lattes.cnpq.br/2206334259323853
 ### Link do meu Linkedin: https://www.linkedin.com/in/rodrigo-perobeli-b2a44314b/
 ### Link do meu Research Gate: https://www.researchgate.net/profile/Rodrigo_Perobeli_Silva_Costa
-
-### Vamos nos conectar? 
 <!--
 **RPerobeli/RPerobeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
