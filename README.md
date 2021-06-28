@@ -1,15 +1,28 @@
-### Olá, me chamo Rodrigo Perobeli, Engenheiro Mecânico e mestrando em Modelagem Computacional, ambos pela UFJF (Universidade Federal de Juiz de Fora). Fui coordenador de programação dentro da equipe Rinobot Team, a equipe de competição de robótica da UFJF e atualmente sou membro colaborador.
-### Possuo experiência em processos de fabricação e também atuei em pesquisas de automação e controle de VANTs dentro da universidade, hoje trabalho com otimização de hélices com base em aerodinâmica via algoritmos genéticos.
-### Atualmente, sou Analista de desenvolvimento de Sistemas I na Energisa.
+## Hi there, I'm Rodrigo! :handshake:
 
 
-### Onde me encontrar:
 
-### Link do meu Lattes:  http://lattes.cnpq.br/2206334259323853
-### Link do meu Linkedin: https://www.linkedin.com/in/rodrigo-perobeli-b2a44314b/
-### Link do meu Research Gate: https://www.researchgate.net/profile/Rodrigo_Perobeli_Silva_Costa
+<img align="right" width="200" height="200" src="https://media.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif" alt="animated">
+
+[![linkein_icon](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/rodrigo-perobeli-b2a44314b/)
+[![linkein_icon](https://img.icons8.com/fluent/48/000000/gmail.png)](rodrigo.costa2015@engenharia.ufjf.br)
+
+I'm Rodrigo Perobeli, Web Developer aiming to become a good Software Engineer.
+
+### About me:
+
+- 🔭 I’m currently working on Energisa S.A. and doing Computational Modeling in master's degree at Federal University of Juiz de Fora (UFJF).
+- 🌱 I’m currently learning more about web development and Data Science.
+- 😄 I’m looking to improve my abilities as a developer, .
+- 💬 Ask me about C#, Arduino, Genetic Algorithms and Aerodynamics, I'm happy to help.
+<br clear="right"/>
+
+<!--![gif 2](https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif)
+-->
+
+
 <!--
-**RPerobeli/RPerobeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*RPerobeli/RPerobeli* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
