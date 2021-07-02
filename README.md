@@ -17,7 +17,8 @@ I'm Rodrigo Perobeli, Web Developer aiming to become a good Software Engineer.
 - 💬 Ask me about C#, Arduino, Genetic Algorithms and Aerodynamics, I'm happy to help.
 <br clear="right"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPerobeli)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPerobeli&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--![gif 2](https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif)
