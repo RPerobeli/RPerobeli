@@ -11,7 +11,7 @@ I'm Rodrigo Perobeli, Web Developer aiming to become a good Software Engineer.
 
 ### About me:
 
-- 🔭 I’m currently working on Energisa S.A. and doing Computational Modeling in master's degree at Federal University of Juiz de Fora (UFJF).
+- 🔭 I’m currently working at Energisa S.A. and doing Computational Modeling in master's degree at Federal University of Juiz de Fora (UFJF).
 - 🌱 I’m currently learning more about web development and Data Science.
 - 😄 I’m looking to improve my abilities as a developer, .
 - 💬 Ask me about C#, Arduino, Genetic Algorithms and Aerodynamics, I'm happy to help.
