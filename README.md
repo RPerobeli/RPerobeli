@@ -4,7 +4,7 @@
 
 <img align="right" width="200" height="200" src="https://media.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif" alt="animated">
 
-[![linkein_icon](https://img.icons8.com/fluent/48/000000/linkedin.png)](www.linkedin.com/in/rperobeli)
+[![linkein_icon](https://img.icons8.com/fluent/48/000000/linkedin.png)]([www.linkedin.com/in/rperobeli](https://www.linkedin.com/in/rodrigo-perobeli-b2a44314b/))
 [![linkein_icon](https://img.icons8.com/fluent/48/000000/gmail.png)](rodrigo.costa2015@engenharia.ufjf.br)
 
 I'm Rodrigo Perobeli, Web Developer aiming to become a good Software Engineer.
